@@ -1,5 +1,5 @@
 
-package com.freakynit.java.hacks.tinder.pojos.nearby_users;
+package com.avinash.java.hacks.tinder.pojos.nearby_users;
 
 public class NearbyUsers {
     private Integer status;

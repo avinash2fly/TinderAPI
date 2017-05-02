@@ -1,4 +1,4 @@
-package com.freakynit.java.hacks.tinder.pojos.nearby_users;
+package com.avinash.java.hacks.tinder.pojos.nearby_users;
 
 import com.google.gson.annotations.SerializedName;
 

@@ -1,5 +1,5 @@
 
-package com.freakynit.java.hacks.tinder.pojos.update_distance_response;
+package com.avinash.java.hacks.tinder.pojos.update_distance_response;
 
 import javax.annotation.Generated;
 import com.google.gson.annotations.Expose;

@@ -1,5 +1,5 @@
 
-package com.freakynit.java.hacks.tinder.pojos.updates;
+package com.avinash.java.hacks.tinder.pojos.updates;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
