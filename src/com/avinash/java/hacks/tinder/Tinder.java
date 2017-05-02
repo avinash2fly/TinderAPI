@@ -1,18 +1,18 @@
-package com.freakynit.java.hacks.tinder;
+package com.avinash.java.hacks.tinder;
 
-import com.freakynit.java.hacks.tinder.pojos.nearby_users.NearbyUsers;
-import com.freakynit.java.hacks.tinder.pojos.profile.Profile;
-import com.freakynit.java.hacks.tinder.pojos.update_distance_response.UpdateDistanceResponse;
-import com.freakynit.java.hacks.tinder.pojos.updates.Updates;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import com.avinash.java.hacks.tinder.pojos.nearby_users.NearbyUsers;
+import com.avinash.java.hacks.tinder.pojos.profile.Profile;
+import com.avinash.java.hacks.tinder.pojos.updates.Updates;
 import com.google.gson.Gson;
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 import com.mashape.unirest.request.GetRequest;
 import com.mashape.unirest.request.HttpRequestWithBody;
-
-import java.util.HashMap;
-import java.util.Map;
 
 public class Tinder {
     private static final String API_HOST = "https://api.gotinder.com";

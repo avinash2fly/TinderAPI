@@ -1,11 +1,7 @@
-package com.freakynit.java.hacks;
+package com.avinash.java.hacks;
 
-import com.freakynit.java.hacks.tinder.Tinder;
-import com.freakynit.java.hacks.tinder.pojos.nearby_users.NearbyUsers;
-import com.freakynit.java.hacks.tinder.pojos.nearby_users.ProcessedFile;
-import com.freakynit.java.hacks.tinder.pojos.profile.Profile;
-import com.freakynit.java.hacks.tinder.pojos.updates.Updates;
-import com.mashape.unirest.http.exceptions.UnirestException;
+import com.avinash.java.hacks.tinder.Tinder;
+import com.avinash.java.hacks.tinder.pojos.profile.Profile;
 
 public class Main {
     public static void main(String[] args) {

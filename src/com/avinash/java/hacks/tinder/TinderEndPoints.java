@@ -1,4 +1,4 @@
-package com.freakynit.java.hacks.tinder;
+package com.avinash.java.hacks.tinder;
 
 public enum TinderEndPoints {
     PROFILE ("/profile"),
